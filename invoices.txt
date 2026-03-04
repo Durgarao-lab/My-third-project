@@ -1,0 +1,12 @@
+
+---INVOICE START---
+Invoice No : 2
+Total Cost : 1234
+Customer ID : qwert
+Name : qwerty
+Phone : 23456
+Address : sdfgh
+Company : qwer
+Discount : 0%
+Final Price : 1234
+---INVOICE END---
